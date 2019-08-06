@@ -13,4 +13,5 @@ Course itself is available
 https://www.udacity.com/course/secure-and-private-ai--ud185</br></br>
 <ins>Note: Project is still WIP and final version will be publish to Google Play store.</ins>
 
-![PrivateAI_WELCOME](https://user-images.githubusercontent.com/7014697/62440314-64c69980-b704-11e9-92cd-f30e398df2bc.png)
+![MainPage](https://user-images.githubusercontent.com/7014697/62564889-90e43680-b83a-11e9-8fc9-17e6fdf8f9e9.png)
+![DetailedPage](https://user-images.githubusercontent.com/7014697/62564890-90e43680-b83a-11e9-9057-9112068a5112.png)
