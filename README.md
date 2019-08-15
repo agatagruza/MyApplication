@@ -7,7 +7,7 @@ PrivateAI—App was born as a showcase project based on knowledge gained during 
 - Differential Privacy
 - Encrypted Computation
 
-So fasten your seatbelt and let’s get started :smile:
+Are you ready? Then fasten your seatbelt and let’s get started :smile:
 
 Course itself is available
 https://www.udacity.com/course/secure-and-private-ai--ud185</br></br>
